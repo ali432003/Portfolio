@@ -1,0 +1,76 @@
+.main {
+  background: url('/src/assets/me.png');
+  height: 90vh;
+  width: 100%;
+  background-position: top 25% right 0;
+  background-size: cover;
+  padding: 0 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.button {
+  border: 2px solid #f5d12f;
+  color: #faecec;
+  font-weight: "600";
+  transition: all 0.4s ease;
+}
+.button:hover{
+  background-color: #f5d12f;
+  color: #333;
+}
+
+@media(max-width:799px) {
+  .main {
+    height: 90vh;
+    padding: 0 40px;
+    background-position: top 30% right 20%;
+  }
+
+  .animation {
+    display: none;
+  }
+  .button{
+    margin-top: 20px;
+  }
+}
+
+@media(max-width:477px) {
+  .main {
+    padding: 0 20px;
+    background-position: 79%;
+    height: 90vh;
+  }
+
+  h6 {
+    height: 5vh;
+  }
+
+  .animation {
+    display: none;
+  }
+  .button{
+    margin-top: 30px;
+  }
+}
+
+
+@keyframes BounceAnimation {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+    
+  }
+}
+
+.animation {
+
+  animation: BounceAnimation 2s ease-in-out infinite;
+}

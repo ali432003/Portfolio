@@ -1,0 +1,15 @@
+.hidden {
+    display: hidden;
+}
+.sToTop {
+    height: 5vh;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+    background-position: top 30% right 20%;
+}
+
+
+
