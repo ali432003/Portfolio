@@ -97,7 +97,7 @@ export default function About() {
         <h5 className='mx-auto my-2'>Front-End Developer & Designer</h5>
         <span className='mx-auto text-start sm:text-left sm:my-auto'>I specialize in creating and implementing visually appealing and user-friendly websites and web applications. With a strong background in HTML, CSS, and JavaScript, I have the technical skills needed to bring design concepts to life.My passion for staying up to date with the latest design trends and web technologies ensures that my work is always fresh and innovative.I bring strong collaboration and communication skills to the table. Whether working with designers, project managers, or other developers, I am a strong team player who is always willing to go the extra mile to ensure that projects are delivered on time and to a high standard.</span>
         <div className='lg:mt-4'>
-          <button className='button p-2 rounded-lg hover:text-black hover:font-bold'>Download CV</button>
+          <button className='button p-2 rounded-lg hover:text-black hover:font-bold'><a href="https://pdf.ac/16zKWv" target='_blank'>CV Resume</a></button>
         </div>
 
       </div>
