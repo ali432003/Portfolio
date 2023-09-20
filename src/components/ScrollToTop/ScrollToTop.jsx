@@ -31,7 +31,7 @@ export default function ScrollToTop() {
 
     return (
         <div className={`${isVisible ? 'visible' : 'hidden'} flex justify-end mr-4`} onClick={scrollToTop}>
-            <img src='src/assets/arrow_up.svg' className='bg-yellow-400 p-2 rounded-full animation cursor-pointer sToTop'></img> 
+            <img src='/src/assets/arrow_up.svg' className='bg-yellow-400 p-2 rounded-full animation cursor-pointer sToTop'></img> 
         </div>
     )
 }

@@ -4,7 +4,7 @@ export default function CardMadebyme(props) {
   return (
     <div className="p-2 bg-slate-900 rounded-lg lg:my-5">
           <div className="p-2 bg-slate-900 rounded-lg">
-            <img src={`src/assets/${props.img}`} className="rounded-lg" alt="" />
+            <img src={`/src/assets/${props.img}`} className="rounded-lg" alt="" />
           </div>
           <div className="flex my-4 justify-between text-slate-500">
             <h4 className="text-slate-300 ms-2">{props.title}</h4>
