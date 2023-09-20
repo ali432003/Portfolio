@@ -137,7 +137,7 @@ export default function Skills() {
         <h2 className='text-center'>Languages</h2>
         <div className='my-9 grid lg:grid-cols-2 md:grid-cols-2  gap-y-20 place-items-center'>
           <div>
-            <img src="src/assets/python.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/python.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='py'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -147,7 +147,7 @@ export default function Skills() {
             </div>
           </div>
           <div>
-            <img src="src/assets/sql-server.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/sql-server.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='sql'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -157,7 +157,7 @@ export default function Skills() {
             </div>
           </div>
           <div>
-            <img src="src/assets/html5.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/html5.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='html'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -167,7 +167,7 @@ export default function Skills() {
             </div>
           </div>
           <div>
-            <img src="src/assets/css-3.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/css-3.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='css'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -177,7 +177,7 @@ export default function Skills() {
             </div>
           </div>
           <div>
-            <img src="src/assets/js.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/js.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='js'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -187,7 +187,7 @@ export default function Skills() {
             </div>
           </div>
           <div>
-            <img src="src/assets/java.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/java.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='java'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
@@ -197,7 +197,7 @@ export default function Skills() {
             </div>
           </div>
           <div className='lg:col-span-2 md:col-span-2'>
-            <img src="src/assets/typescript.png" className='w-16 mx-auto mb-4' alt="" />
+            <img src="/assets/typescript.png" className='w-16 mx-auto mb-4' alt="" />
             <h4 className='ts'></h4>
             <div className='w-80 mt-2 h-2 bg-slate-100 rounded-lg'>
               <div className='h-2 bg-slate-500 rounded-lg' style={{
