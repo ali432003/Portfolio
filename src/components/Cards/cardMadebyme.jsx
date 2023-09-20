@@ -9,19 +9,19 @@ export default function CardMadebyme(props) {
           <div className="flex my-4 justify-between text-slate-500">
             <h4 className="text-slate-300 ms-2">{props.title}</h4>
             <div className="lg:flex">
-            <a href={props.live} target='_blank'><button className="button mx-4 lg:p-2 pe-3 rounded-lg text-slate-300 flex group">
+            <a href={props.live} target='_blank'><button className="button mx-4 lg:p-2 pe-10 rounded-lg text-slate-300 flex group">
                 <img
                   src="/assets/link.svg"
-                  className="ms-1 mr-4 my-auto filter grayscale brightness invert transition-transform transform group-hover:filter-none"
+                  className="ms-1 mr-3 my-auto filter grayscale brightness invert transition-transform transform group-hover:filter-none"
                   alt=""
                 />
                 Get live
               </button></a>
 
-              <a href={props.code} target='_blank'><button className="button mx-4 lg:p-2 pe-3 rounded-lg text-slate-300 flex group">
+              <a href={props.code} target='_blank'><button className="button mx-4 lg:p-2 pe-10 rounded-lg text-slate-300 flex group">
                 <img
                   src="/assets/code.svg"
-                  className="ms-1 mr-4 my-auto  filter grayscale brightness invert transition-transform transform group-hover:filter-none"
+                  className="ms-1 mr-3 my-auto  filter grayscale brightness invert transition-transform transform group-hover:filter-none"
                   alt=""
                 />
                 Get code
