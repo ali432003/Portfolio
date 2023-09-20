@@ -33,7 +33,7 @@ export default function Home() {
           <div className='flex flex-col text-start main font-semibold'>
             <h4 className='lg:z-10'>Hey I'am</h4>
             <h1 className='lg:z-10'>Muhammad Ali Aamir</h1>
-            <h6 className='lg:z-10'>I Develop Interactive <span className='font-extrabold' ref={el}>Sites</span></h6>
+            <h6 className='lg:z-10'>I Develop Interactive <span className='font-extrabold' ref={el}></span></h6>
             <button className='p-2 lg:z-10 rounded-md cursor-pointer  lg:mt-4 button'><Link
               to="contact-section"
               smooth={true}

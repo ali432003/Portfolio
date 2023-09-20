@@ -78,7 +78,7 @@ const Projects = () => {
         <CardMadebyme title = "E-commerce Site" img = "E-commerce.png" live="https://ali432003.github.io/E-commerce-Site/" code="https://github.com/ali432003/E-commerce-Site"/>
         <CardMadebyme title = "Restaurent Site" img = "restaurent.png" live="https://ali432003.github.io/restaurent-site-2/" code="https://github.com/ali432003/restaurent-site-2"/>
         <CardMadebyme title = "Prayer Timings" img = "prayerTimings.png" live="https://prayertimingsaroundtheworld.netlify.app/" code="https://github.com/ali432003/PrayerTimings"/>
-        <CardMadebyme title = "Portfolio Site" img = "portfolio.png" live="https://me-fbx5mf0bd-ali432003.vercel.app/" code="https://github.com/ali432003/me"/>
+        <CardMadebyme title = "Portfolio Site" img = "portfolio.png" live="https://ali432003.github.io/me/" code="https://github.com/ali432003/me"/>
       </div>
       <div className="mx-auto lg:mt-4 sm:-mt-6">
         <button className="button p-2 rounded-lg text-slate-200 font-bold"><a href="https://github.com/ali432003?tab=repositories" target="_blank">Show more</a></button>
