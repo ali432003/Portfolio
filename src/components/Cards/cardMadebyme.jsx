@@ -11,7 +11,7 @@ export default function CardMadebyme(props) {
             <div className="lg:flex">
             <a href={props.live} target='_blank'><button className="button mx-4 lg:p-2 pe-1 rounded-lg text-slate-300 flex group">
                 <img
-                  src="src/assets/link.svg"
+                  src="/assets/link.svg"
                   className="ms-1 mr-4 my-auto filter grayscale brightness invert transition-transform transform group-hover:filter-none"
                   alt=""
                 />
@@ -20,7 +20,7 @@ export default function CardMadebyme(props) {
 
               <a href={props.code} target='_blank'><button className="button mx-4 lg:p-2 pe-1 rounded-lg text-slate-300 flex group">
                 <img
-                  src="src/assets/code.svg"
+                  src="/assets/code.svg"
                   className="ms-1 mr-4 my-auto  filter grayscale brightness invert transition-transform transform group-hover:filter-none"
                   alt=""
                 />
