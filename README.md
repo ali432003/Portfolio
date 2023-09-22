@@ -11,4 +11,4 @@ Currently, two official plugins are available:
   
 # Responsive Site 
 
-! [Layouts] ("/assets/readme.png")
+![Layouts]("/assets/readme.png")
