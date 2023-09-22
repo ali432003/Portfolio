@@ -37,16 +37,19 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
  ```shell
-$ git clone https://github.com/your-username/your-project.git
-$ cd your-project
+$ git clone https://github.com/your-username/Portfolio.git
+$ cd Portfolio
 $ npm install
-
+```
 Or, if you prefer Yarn:
 
+```shell
 $ yarn install
 $ npm run dev
+```
 
 Or, with Yarn:
+```shell
 $ yarn dev
 ```
 
