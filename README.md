@@ -29,8 +29,8 @@ Follow these steps to get your Vite.js project up and running quickly.
 
 Before you begin, make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (version X.X.X or higher)
-- A package manager like [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) (version X.X.X or higher)
+- [Node.js](https://nodejs.org/) (version v18.12.1 or higher)
+- A package manager like [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) (version 8.19.2 or higher)
 
 ### Installation
 
