@@ -37,26 +37,18 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-project.git
-   
-   ```shell
-   cd your-project
-   
-   ```shell
-   npm install
-   
+$ git clone https://github.com/your-username/your-project.git
+$ cd your-project
+$ npm install
+
 Or, if you prefer Yarn:
 
-  ```shell
-  yarn install
-
-```shell
-  npm run dev
+$ yarn install
+$ npm run dev
 
 Or, with Yarn:
+$ yarn dev
 
-```shell
-  yarn dev
 
 The development server will start, and your project will be available at http://localhost:3000. Any changes you make to the source code will automatically trigger hot-reloading, making development a breeze.
 
