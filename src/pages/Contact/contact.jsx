@@ -80,7 +80,7 @@ export default function Contact() {
         <div className='w-2/3'>
           <h3 className='text-sky-500 text-center text-4xl my-4'>Get in Touch</h3>
           <p className='text-slate-400 text-center mb-4'>Although Im currently looking for any new opportunities. Feel free to reach out to me for any inquiries, collaborations, or simply to say hello. Im always excited to connect with like-minded individuals and explore new opportunities.</p>
-          <p className='text-slate-400 text-center mb-4'>you can connect with me on professional networking platform <span className='cursor-pointer'><a href='https://www.linkedin.com/in/ali-aamir-249b87220/' target='_blank' rel='noopener noreferrer'>LinkedIn.</a></span> Feel free to send me a connection request and lets stay in touch</p>  
+          <p className='text-slate-400 text-center mb-4'>you can connect with me on professional networking platform <span>LinkedIn.</span> Feel free to send me a connection request and lets stay in touch</p>  
           <button className='button justify-content-center p-3 rounded-lg mx-auto block hover:font-bold mb-5'>Contact Me</button>
         </div>
       </div>
